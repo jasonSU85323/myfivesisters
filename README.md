@@ -1,1 +1,1 @@
-python manage.py runsslserver --certificate archive/cert.pem --key archive/privkey.pem 0.0.0.0:8002
+GO: python manage.py runsslserver --certificate archive/cert.pem --key archive/privkey.pem 0.0.0.0:8002
